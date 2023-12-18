@@ -6,11 +6,11 @@
 * Praktikum 1 : Pengenalan Variabel
   `praktikum-d1.py`
 * Praktikum 2 : Operator
-  `praktikum-d2.py` 
+  `tugas praktikum 2 farel.py` 
 * Praktikum 3 : String
-  `praktikum-d3.py`
+  `praktikum farel.py`
 * Praktikum 4 : List and Tuples
-  `praktikum-d4.py`
+  `praktikum farel d4.py`
 * Praktikum 5 : Perulangan
   `praktikum-d5.py`
 * Praktikum 6 : While True
