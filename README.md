@@ -28,10 +28,10 @@
   `tugas 10-2.py`
 * Tugas Percabangan
     * Batasan Nilai
- `percabangan1.py`
+ `percabangan 1.py`
    * Panjang str
-  `percabangan2.py`
+  `percabangan 2.py`
    * Batasan Pendapatan
-  `percabangan3.py`
+  `percabangan 3.py`
    * Persentase
-  `percabangan4.py`
+  `percabangan 4.py`
